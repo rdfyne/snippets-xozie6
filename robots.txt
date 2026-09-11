@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rdfyne.github.io/snippets-xozie6/sitemap.xml
